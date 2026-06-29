@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR2p0081/tls/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子遺余留鳥栗鳥今兮鷗藕之趾今兮欲衣萃而惡枲今兮鵑藕之羽今兮子何捨余今兮鷂鶻翩
+  hash: sha256:6771e7e54bd2d5b9807b1018ef4d5ba5672288a0e2f8ae091b4f618895f39493
+metadata:
+  title: 楚竹書
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0081.xml
+hash: sha256:af81c23b4a49eeb39484538ebd01fbf80b584dea5568c824f3e5a5e46ed10ff2

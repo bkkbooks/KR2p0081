@@ -1,0 +1,30 @@
+canonical_identifier: bkk:krp/KR2p0081/bkk/v1/markers/1
+seq: 1
+markers:
+  front: []
+  body:
+  - {type: xml-element, offset: 0, content: '', id: KR2p0081_tls_001-bkkxmlele1, name: p, role: open, attrs: {source: 'SHANGBO.YAOBEI 8.53.1 (STRIP 1) MACHENGYUAN 8: 288 TR. MARCO CABOARA'}}
+  - {type: page-break, offset: 0, content: '', id: KR2p0081_tls_001-1a}
+  - {type: 'tls:seg', offset: 0, content: '', id: KR2p0081_tls_001-1a.1}
+  - {type: punctuation, offset: 3, content: '[', id: KR2p0081_tls_001-bkkpn1}
+  - {type: punctuation, offset: 5, content: ']', id: KR2p0081_tls_001-bkkpn2}
+  - {type: punctuation, offset: 5, content: '[', id: KR2p0081_tls_001-bkkpn3}
+  - {type: punctuation, offset: 7, content: ']', id: KR2p0081_tls_001-bkkpn4}
+  - {type: 'tls:seg', offset: 9, content: '', id: KR2p0081_tls_001-1a.2}
+  - {type: punctuation, offset: 15, content: ',', id: KR2p0081_tls_001-bkkpn5}
+  - {type: 'tls:seg', offset: 15, content: '', id: KR2p0081_tls_001-1a.3}
+  - {type: punctuation, offset: 17, content: (, id: KR2p0081_tls_001-bkkpn6}
+  - {type: punctuation, offset: 18, content: '?', id: KR2p0081_tls_001-bkkpn7}
+  - {type: punctuation, offset: 18, content: ), id: KR2p0081_tls_001-bkkpn8}
+  - {type: 'tls:seg', offset: 18, content: '', id: KR2p0081_tls_001-1a.4}
+  - {type: xml-element, offset: 23, content: '', id: KR2p0081_tls_001-bkkxmlele2, name: p, role: close, attrs: {source: 'SHANGBO.YAOBEI 8.53.1 (STRIP 1) MACHENGYUAN 8: 288 TR. MARCO CABOARA'}}
+  - {type: xml-element, offset: 23, content: '', id: KR2p0081_tls_001-bkkxmlele3, name: p, role: open, attrs: {source: 'SHANGBO.YAOBEI 8.53.2 (STRIP 1) MACHENGYUAN 8: 288 TR. MARCO CABOARA'}}
+  - {type: page-break, offset: 23, content: '', id: KR2p0081_tls_001-2a}
+  - {type: 'tls:seg', offset: 23, content: '', id: KR2p0081_tls_001-2a.1}
+  - {type: punctuation, offset: 29, content: ',', id: KR2p0081_tls_001-bkkpn9}
+  - {type: 'tls:seg', offset: 29, content: '', id: KR2p0081_tls_001-2a.2}
+  - {type: punctuation, offset: 35, content: '?', id: KR2p0081_tls_001-bkkpn10}
+  - {type: 'tls:seg', offset: 35, content: '', id: KR2p0081_tls_001-2a.3}
+  - {type: xml-element, offset: 38, content: '', id: KR2p0081_tls_001-bkkxmlele4, name: p, role: close, attrs: {source: 'SHANGBO.YAOBEI 8.53.2 (STRIP 1) MACHENGYUAN 8: 288 TR. MARCO CABOARA'}}
+  back: []
+hash: sha256:3ee6833ca278e9ba3384a16b3f8c8d6809633eb83983c7aeab774eccb634c813
