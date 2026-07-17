@@ -14,6 +14,7 @@ markers:
   - {type: punctuation, offset: 15, content: ',', id: KR2p0081_tls_001-bkkpn5}
   - {type: 'tls:seg', offset: 15, content: '', id: KR2p0081_tls_001-1a.3}
   - {type: punctuation, offset: 17, content: (, id: KR2p0081_tls_001-bkkpn6}
+  - {type: voice, offset: 17, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 18, content: '?', id: KR2p0081_tls_001-bkkpn7}
   - {type: punctuation, offset: 18, content: ), id: KR2p0081_tls_001-bkkpn8}
   - {type: 'tls:seg', offset: 18, content: '', id: KR2p0081_tls_001-1a.4}
@@ -27,4 +28,4 @@ markers:
   - {type: 'tls:seg', offset: 35, content: '', id: KR2p0081_tls_001-2a.3}
   - {type: xml-element, offset: 38, content: '', id: KR2p0081_tls_001-bkkxmlele4, name: p, role: close, attrs: {source: 'SHANGBO.YAOBEI 8.53.2 (STRIP 1) MACHENGYUAN 8: 288 TR. MARCO CABOARA'}}
   back: []
-hash: sha256:88d2256b57d886b2a5dc39d933424e17ebb7c40fa0ebaa9c039ea42bfcc51c5a
+hash: sha256:d547c694aefb3a6f54ac744044538b77b8d16b1e2b70d02d32e39151e8d91b0e
